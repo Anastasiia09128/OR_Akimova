@@ -1,1 +1,2 @@
-Changes from main
+First text in file
+New text in file for another branch
