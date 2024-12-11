@@ -1,0 +1,3 @@
+line 1 for exercise 7
+Second line for exercise 7
+Third line for exercise seven
